@@ -55,10 +55,6 @@ pinecone-plugin-inference==1.1.0
 pinecone-plugin-interface==0.0.7
 propcache==0.2.0
 protobuf==5.28.3
-psycopg==3.2.3
-psycopg-binary==3.2.3
-psycopg-pool==3.2.3
-psycopg2==2.9.10
 pyarrow==18.0.0
 pydantic==2.9.2
 pydantic-settings==2.6.1
