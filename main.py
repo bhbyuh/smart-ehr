@@ -32,7 +32,7 @@ def _combine_documents3(docs, document_separator="\n\n"):
 
 def get_response(user_query, namespace):
     prompt_str = """
-        You are an AI assistant. According to user_query, You must generate a detailed and long answer.
+        You are an AI assistant. According to user_query, You must generate a concise and too the point response.
         Guidelines:
         -If user_query is related to greetings than greet properly.
 
